@@ -30,7 +30,7 @@ Este projeto contém exemplos de desenhos utilizando a biblioteca `turtle` do Py
 
 ## Requisitos
 
-- Python 3.x  (verificar depois qual versão do python estou usando)
+- Python 3.10.11  (usado no momento dos teste)
 - Biblioteca padrão `turtle` (já incluída no Python)
 
 ## Documentação
